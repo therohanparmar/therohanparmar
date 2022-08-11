@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therohanparmar" alt="therohanparmar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohan__parmar" target="blank"><img src="https://img.shields.io/twitter/follow/rohan__parmar?logo=twitter&style=for-the-badge" alt="rohan__parmar" /></a> </p>
+- 📫 How to reach me **rohanrparmar987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
