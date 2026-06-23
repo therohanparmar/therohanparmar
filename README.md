@@ -19,35 +19,46 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Stats
+
+<table>
+<tr>
+<td width="45%" valign="top">
 
 ### 💻 Languages
-- PHP  
-- JavaScript  
-- Python  
+- PHP
+- JavaScript
+- Python
 
-### ⚙️ Frameworks / CMS
-- Laravel  
-- TYPO3  
+### ⚙️ Frameworks & CMS
+- Laravel
+- TYPO3
 - Django
-- FastAPI  
+- FastAPI
 
 ### 🗄️ Database & Tools
-- MySQL  
-- Git, GitHub, GitLab, Bitbucket  
-- DDEV
+- MySQL
 - Docker
+- DDEV
+- Git
+- GitHub
+- GitLab
+- Bitbucket
 
 ### 🖥️ Operating Systems
-- Ubuntu  
-- macOS  
-- Windows  
+- Ubuntu
+- macOS
+- Windows
 
----
+</td>
 
-<p align="center">
-  <img src="https://github.com/therohanparmar/therohanparmar/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+<td width="55%" align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+</td>
+</tr>
+</table>
 
 ---
 
