@@ -45,6 +45,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/therohanparmar/therohanparmar/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 📧 **Email:** rohanrparmar987@gmail.com  
