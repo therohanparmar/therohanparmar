@@ -5,6 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=therohanparmar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/therohanparmar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohanrparmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/rohan-parmar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://medium.com/@rohan-parmar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/rohan__parmar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -59,15 +67,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🌐 Connect With Me
-
-- 📧 **Email:** rohanrparmar987@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rohanrparmar/  
-- 🧑‍💻 **GitHub:** https://github.com/therohanparmar  
-- 🐦 **Twitter (X):** https://twitter.com/rohan__parmar  
 
 ---
 
