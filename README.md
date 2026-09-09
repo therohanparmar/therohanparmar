@@ -1,73 +1,42 @@
-<h1 align="center">Hey 👋, I'm Rohan Parmar</h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+# Rohan Parmar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=therohanparmar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+**Software Engineer** · PHP, Laravel, TYPO3 · AI Agents & Product Engineering
+
+[Portfolio](https://rohanparmar.vercel.app) · [LinkedIn](https://www.linkedin.com/in/therohanparmar) · [X](https://x.com/therohanparmar) · [Medium](https://medium.com/@rohan-parmar) · [Dev.to](https://dev.to/rohan-parmar) · [Sponsor](https://github.com/sponsors/therohanparmar)
+
+---
+
+## About
+
+I am a software engineer with over four years of experience building and maintaining production web applications, primarily in the PHP ecosystem. My work spans backend architecture, REST API design, CMS extension development, third-party integrations, and performance optimisation, across both product and client engagements.
+
+I currently work at **ViitorCloud Technologies** in Ahmedabad, where I am building **LaraCopilot**, an AI agent that generates complete Laravel MVC structures, migrations, controllers, and admin panels. Before that I spent three years at a TYPO3 agency, where I shipped custom extensions, led CMS upgrade projects, and contributed to a suite of AI-powered TYPO3 products including T3AI, T3AC, T3AB, T3AS, Helpdesk, Event, and Personio.
+
+Outside of work I build small developer tools and browser extensions, contribute to open source, and write about what I learn.
+
+**Recognition:** Rising Star of the Year (2024) · Employee of the Month (2023)
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Languages | PHP, JavaScript, TypeScript, Python |
+| Backend | Laravel, TYPO3, Node.js, FastAPI, Django, REST API design |
+| Frontend | React, Inertia.js, Tailwind CSS |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| Infrastructure & Tooling | Docker, DDEV, Git, Postman, Tauri |
+| AI Agents & LLM Integration | Agent workflows, LLM API integration, prompt engineering, Claude Code, Cursor |
+| Platforms | Ubuntu, macOS |
+
+## GitHub Activity
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therohanparmar&theme=default" alt="GitHub stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=therohanparmar&theme=default&hide_border=true" alt="Contribution streak" height="180" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/therohanparmar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/therohanparmar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/therohanparmar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://medium.com/@therohanparmar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/therohanparmar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+<img src="https://ghchart.rshah.org/therohanparmar" alt="Contribution graph" width="100%" />
 
----
+## Contact
 
-## 👨‍💻 About Me
-
-- 🇮🇳 Software Engineer from India  
-- 💼 3.5+ years of experience in backend development  
-- 🧠 Strong foundation in **PHP** and MVC architecture  
-- 🛠️ Experience with **Laravel** and **TYPO3**.
-- 🔗 Built REST APIs and database-driven applications  
-- 🌱 Currently learning **Node.js** and **React.js**  
-- 🎯 Focused on clean, scalable, and maintainable code  
-
----
-
-## 🧰 Tech Stack & Stats
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-### 💻 Languages
-- PHP
-- JavaScript
-- Python
-
-### ⚙️ Frameworks & CMS
-- Laravel
-- TYPO3
-- Django
-- FastAPI
-
-### 🗄️ Database & Tools
-- MySQL
-- Docker
-- DDEV
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-
-### 🖥️ Operating Systems
-- Ubuntu
-- macOS
-- Windows
-
-</td>
-
-<td width="55%" align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" />
-
-</td>
-</tr>
-</table>
-
----
-
-⭐️ *Thanks for stopping by! Feel free to explore my repositories and connect with me.*
+The quickest way to reach me is through the [contact form](https://rohanparmar.vercel.app/contact) on my site or via [LinkedIn](https://www.linkedin.com/in/therohanparmar).
